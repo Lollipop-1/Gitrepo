@@ -1,3 +1,4 @@
+# Создано на уроке. Лола
 def my_superfunction():
     print("Много принтов")
 def main():
