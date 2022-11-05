@@ -1,3 +1,5 @@
+def my_superfunction():
+    print("Много принтов")
 def main():
     print("Первый принт")
     print("Второй принт")
